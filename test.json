@@ -1,0 +1,43 @@
+{
+  "jobSteps": [
+    {
+      "stepNumber": 1,
+      "stepExecNumber": 1,
+      "stepProcNumber": 0,
+      "stepName": "STEP10(001)",
+      "procStepName": "",
+      "stepProgramName": "IDCAMS",
+      "stepBypassed": false,
+      "stepCondCode": "0000",
+      "stepReason": 0,
+      "stepRestartable": true,
+      "stepDuplicate": false
+    },
+    {
+      "stepNumber": 2,
+      "stepExecNumber": 6,
+      "stepProcNumber": 2,
+      "stepName": "STEP20(004)",
+      "procStepName": "PSTEP01(002)",
+      "stepProgramName": "IDCAMS",
+      "stepBypassed": false,
+      "stepCondCode": "0000",
+      "stepReason": 0,
+      "stepRestartable": true,
+      "stepDuplicate": true
+    },
+    {
+      "stepNumber": 3,
+      "stepExecNumber": 6,
+      "stepProcNumber": 3,
+      "stepName": "STEP20(004)",
+      "procStepName": "PSTEP01(003)",
+      "stepProgramName": "IDCAMS",
+      "stepBypassed": false,
+      "stepCondCode": "0000",
+      "stepReason": 0,
+      "stepRestartable": true,
+      "stepDuplicate": true
+    }
+  ]
+}
